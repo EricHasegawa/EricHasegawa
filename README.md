@@ -29,7 +29,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.prepare1.com%2Fwp-content%2Fuploads%2F2014%2F04%2Flinkedin-logo-high-res-1254-1024x1024.jpg&f=1&nofb=1" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixelprivacy.com%2Fwp-content%2Fuploads%2F2018%2F02%2FInstagram-Icon.png&f=1&nofb=1" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=300&h=300" />][instagram]
 [<img align="left" alt="Facebook" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcoindoo.com%2Fwp-content%2Fuploads%2F2019%2F01%2Ffacebook-icon.png&f=1&nofb=1" />][facebook]
 [<img align="left" alt="Email" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bluebuddhaboutique.com%2Fblog%2Fwp-content%2Fuploads%2F2015%2F03%2FEmail_icon.jpg&f=1&nofb=1" />][email]
 <br />
