@@ -1,7 +1,7 @@
 ## I'm Eric, a Software Engineer, Entrepreneur, and Student! 
 
 - 🔭 I recently launched my first company: https://sanctuarysneakers.com/
-- 👨‍💻 I’m currently a full stack engineer at <a href=https://www.omers.com/#> OMERS </a>
+- 👨‍💻 I’m currently a full stack engineer at <a href=https://www.capitalone.ca/#> Capital One </a>
 - 👯 I’m looking to bring more engineers onto the Sanctuary team!
 - 🏋️‍♂️ Fun fact: I'm also a competitive powerlifter
 
