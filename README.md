@@ -35,10 +35,6 @@
 <br />
 
  ### Feel free to check out my<a href="https://docs.google.com/document/d/1KwfiT3S2cupJCNjLZEM8LsSrm0Z1DAfnIwLSOxeN1u0/edit?usp=sharing"> resume! </a>
- 
- ### GitHub Stats
-
-  <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EricHasegawa&show_icons=true&hide_border=true" />
   
 <br />
 <br />
