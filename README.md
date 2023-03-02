@@ -1,4 +1,4 @@
-## I'm Eric, a Software Engineer, Entrepreneur, and Student! 
+## I'm Eric, a Software Engineer and Entrepreneur. 
 
 - 🔭 I recently launched my first company: https://sanctuarysneakers.com/
 - 👯 I’m looking to bring more engineers onto the Sanctuary team!
